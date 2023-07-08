@@ -1,5 +1,3 @@
-Welcome to the forest!
+Changed the Forest map, added a lobby inside of a stump!
 
-Use your arms to swing around the map and have a good time with friends. This is just the initial test and more will be coming very shortly. Stay tuned for upcoming holidays as special things will happen for them
-
-I have a lot planned for the next few weeks however I have some school work to get through
+fixed some hit sounds and added some new ones!
